@@ -7,15 +7,18 @@
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
 - ⚡️ I love to read books 📚 and watch films 🎬
 
-##### 📫 Reach me here 
+##### 📫 Reach me here
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yura.ita.com@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yuriy-rymarchuk-29y1ua)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriy-rymarchuk-29y1ua)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DropB1t)
 
 ---
 
-![DropBit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropb1t&show_icons=true&theme=swift&hide=issues,contribs&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dropb1t&layout=compact&theme=swift)
+<div style="display: inline-flex; flex-direction: row; gap: 1rem; align-items: stretch;">
+    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropb1t&layout=compact&theme=swift" />
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=dropb1t&show_icons=true&theme=swift&hide=issues,contribs&count_private=true" />
+</div>
+
 
 ##### ⚙️ Some stuff I use
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
