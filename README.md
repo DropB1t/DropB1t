@@ -15,7 +15,7 @@
 
 ---
 
-![DropBit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropb1t&show_icons=true&theme=swift&hide=issues,contribs&count_private=true)
+![DropBit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropb1t&show_icons=true&hide=issues,contribs&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
 ##### ⚙️ Some stuff I use
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
