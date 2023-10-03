@@ -3,7 +3,7 @@
 
 ##### SOME INFO
 - 🌱 Learning all about **Network & Web**
-- 🐹 **Go** enthusiast
+- 🦀 **Rust** enthusiast
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
 - ⚡️ I love to read books 📚 and watch films 🎬
 
