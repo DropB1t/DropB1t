@@ -14,7 +14,8 @@
 
 ---
 
-![DropBit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropb1t&show_icons=true&hide=issues,contribs&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+![DropBit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropb1t&show_icons=true&hide=issues,contribs&count_private=true&theme=github_dark#gh-dark-mode-only)
+![DropBit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropb1t&show_icons=true&hide=issues,contribs&count_private=true&theme=vue#gh-light-mode-only)
 
 ##### ⚙️ Some stuff I use
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
