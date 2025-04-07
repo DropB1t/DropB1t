@@ -6,7 +6,7 @@
 - ⚙️ Passionate about **C and C++**
 - 📊 Enthusiast in optimization and benchmarking
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
-- ⚡️ Avid reader 📚 and film buff 🎬
+- 💭 Once I compiled the compiler
 
 ##### 📫 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yura.ita.com@gmail.com)
