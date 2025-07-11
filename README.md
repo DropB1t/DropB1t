@@ -5,7 +5,7 @@
 - 📊 Love optimizing and benchmarking things
 - ⚙️ Passionate about **C** and **C++**
 - ⚡ Zig enthusiast
-- 💬 Ping me about **design**, **branding**, **development**, **design thinking**
+- 💬 Ping me about **development**, **system architecture** or **design thinking**
 
 ##### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriy-rymarchuk-29y1ua)
