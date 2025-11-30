@@ -3,8 +3,7 @@
 #### About Me
 - 🌱 Learning all about computers and networking
 - 📊 Love optimizing and benchmarking things
-- ⚙️ Passionate about **C** and **C++**
-- ⚡ Zig enthusiast
+- ⚙️ Tinkering with **C** and **C++**
 - 💬 Ping me about **development**, **system architecture** or **design thinking**
 
 ##### 📫 Connect with Me
