@@ -3,14 +3,13 @@
 - ⚙️ Tinkering with **C** and **C++**
 - 💬 Ping me about **development**, **system architecture** or **design thinking**
 
-##### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriy-rymarchuk-29y1ua)
+#### 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/yuriy-rymarchuk-29y1ua)
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriy-rymarchuk-29y1ua) -->
 <!-- [![Bluesky](https://img.shields.io/badge/@dropbit.bsky.social-0285FF?style=for-the-badge&logo=bluesky&logoColor=fff)](https://bsky.app/profile/dropbit.bsky.social) -->
 <!-- [![DropB1t](https://img.shields.io/badge/@DropBit-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/DropB1t) -->
-
 <!-- ![DropBit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropb1t&show_icons=true&hide=issues,contribs&count_private=true&theme=github_dark) -->
 
-#### ⚙️ Tools & Technologies I comfortable with
+#### ⚙️ Tools & Technologies I am comfortable with
 ![C](https://img.shields.io/badge/language-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -21,7 +20,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-##### 🌐 Webdev related
+#### 🌐 Webdev related
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
