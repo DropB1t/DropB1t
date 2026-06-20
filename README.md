@@ -1,6 +1,3 @@
-### Howdy 👋
-
-#### About Me
 - 🌱 Learning all about computers and networking
 - 📊 Love optimizing and benchmarking things
 - ⚙️ Tinkering with **C** and **C++**
@@ -8,7 +5,7 @@
 
 ##### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriy-rymarchuk-29y1ua)
-[![Bluesky](https://img.shields.io/badge/@dropbit.bsky.social-0285FF?style=for-the-badge&logo=bluesky&logoColor=fff)](https://bsky.app/profile/dropbit.bsky.social)
+<!-- [![Bluesky](https://img.shields.io/badge/@dropbit.bsky.social-0285FF?style=for-the-badge&logo=bluesky&logoColor=fff)](https://bsky.app/profile/dropbit.bsky.social) -->
 <!-- [![DropB1t](https://img.shields.io/badge/@DropBit-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/DropB1t) -->
 
 <!-- ![DropBit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dropb1t&show_icons=true&hide=issues,contribs&count_private=true&theme=github_dark) -->
